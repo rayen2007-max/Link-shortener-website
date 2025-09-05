@@ -1,2 +1,17 @@
-# Link-shortener-website
-A link shortener website is an online tool that converts long URLs into shorter, cleaner links that are easier to share and remember. It is widely used in social media, emails, and marketing campaigns. Many shorteners also provide tracking features, showing how many clicks a link received and user insights.
+# DevProjects - Link shortener website
+
+This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
+Find the project requirements here: [Link shortener website](https://www.codementor.io/projects/web/link-shortener-website-brqjanf6zq)
+
+## Tech/framework used
+Built with ___
+
+## Screenshots and demo
+Screenshots of your app and/or a link to your live demo
+
+## Installation
+Instructions for other developers on how to install and run your code on their local environment.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
